@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moonjsjh
 - 👀 I’m interested in ... learning bioinformatics and data science 
 - 🌱 I’m currently learning ... bioinofrmatics and data science 
-- 💞️ I’m looking to collaborate on ... developing mRNA design tool
 - 📫 How to reach me ... moonjsjh318@gmail.com / c.moon@samsung.com
 
 <!---
